@@ -1,6 +1,6 @@
 ![Logo do git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
 
-# Bem vindo ao curso Git e Github.
+# Bem vindo ao curso Git e GitHub.
 Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional._
 
 **Últimas updates:**
@@ -47,7 +47,7 @@ function showName(name) {
 ```html
 <h1>
     Título do projeto
-    <span>Curso Git<span>
+    <span>Curso Git</span>
 </h1>
 ```
 
@@ -61,7 +61,7 @@ function showName(name) {
 
 Propriedade | Descrição
 ----------- | --------
-name | Para informar o nome do usuário 
+name | Para informar o **nome** do usuário 
 size | Para definir o tamanho do campo
-background | Cor de fundo da área em HEX
+background | Cor de fundo da área em _HEX_
 onPress | Função chamada quando clicar no botão
